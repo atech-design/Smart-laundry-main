@@ -1,0 +1,180 @@
+{
+  "limitedSlots": "Limited Slots Today!",
+  "bookBefore": "Book before 6 PM",
+  "sameDay": "for Same-Day Delivery",
+  "heroTitle": "Smart Laundry Goregaon 🚀",
+  "heroTagline": "Fresh • Fast • Reliable – Laundry services at your doorstep.",
+  "ctaToday": "Get Fresh Clothes Today",
+  "seeHow": "See How It Works",
+
+  "whyChoose": "Why Choose Smart Laundry?",
+  "fastTitle": "⚡ Super Fast",
+  "fastDesc": "Same day pickup & delivery for your convenience.",
+  "premiumTitle": "🧼 Premium Wash",
+  "premiumDesc": "Fresh & clean wash using high-quality detergents.",
+  "affordableTitle": "💰 Affordable",
+  "affordableDesc": "Pocket-friendly pricing without compromising quality.",
+
+  "howWorks": "How It Works?",
+  "step1": "1. Book",
+  "step1Desc": "Book your service online in just 2 clicks.",
+  "step2": "2. Pickup",
+  "step2Desc": "Our rider picks up your clothes from your doorstep.",
+  "step3": "3. Clean",
+  "step3Desc": "We wash & iron your clothes with premium care.",
+  "step4": "4. Deliver",
+  "step4Desc": "Fresh clothes delivered back to your doorstep.",
+
+  "finalTitle": "Laundry Made Simple",
+  "finalDesc": "Join 500+ happy customers in Goregaon!",
+  "finalCta": "Book My Pickup 🚚",
+
+  "stats_heading": "Trusted By Thousands",
+  "stat_customers": "Happy Customers",
+  "stat_clothes": "Clothes Cleaned",
+  "stat_years": "Years of Service",
+
+  "contact_heading": "Contact Us",
+  "contact_get_in_touch": "Get in Touch",
+  "contact_description": "Have any questions or need help with booking? Reach out to us!",
+  "contact_address": "Goregaon, Mumbai, India",
+  "contact_phone": "+91 9372264203",
+  "contact_email": "smartlaundry@gmail.com",
+
+  "form_name": "Your Name",
+  "form_email": "Your Email",
+  "form_message": "Your Message",
+  "form_send": "Send Message",
+
+  "aboutus": {
+    "hero": {
+      "title": "We Make Laundry Feel Like Magic ✨",
+      "subtitle": "Fast pickup, premium wash, and right-on-time delivery—so you focus on what matters.",
+      "trusted": "Trusted by your neighborhood"
+    },
+    "stats": {
+      "customers": "Happy Customers",
+      "clothes": "Clothes Cleaned",
+      "years": "Years of Service"
+    },
+    "values": {
+      "premium": { "title": "Premium Care", "desc": "Fabric-first cleaning with skin-safe agents." },
+      "ontime": { "title": "On-Time Always", "desc": "Pickup & delivery that respects your time." },
+      "eco": { "title": "Eco Friendly", "desc": "Low-water cycles & green chemicals." },
+      "service": { "title": "Delightful Service", "desc": "Friendly support, zero-hassle rework." }
+    },
+    "timeline": {
+      "idea": { "title": "Idea 💡", "text": "Started in neighborhood with focus on speed + hygiene." },
+      "launch": { "title": "Launch 🚀", "text": "Smart pickup, live tracking, transparent pricing." },
+      "scale": { "title": "Scale 📦", "text": "Expanded to more areas with 5-star quality." },
+      "procare": { "title": "Pro Care ✨", "text": "Special processes for premium fabrics." }
+    },
+    "team": {
+      "operations": "Operations",
+      "support": "Customer Success",
+      "logistics": "Logistics",
+      "quality": "Quality"
+    },
+    "testimonials": {
+      "riya": "Same-day delivery made life easy. Clothes look brand new!",
+      "amit": "Simple pricing, punctual pickup, quick support—perfect trio.",
+      "neha": "Premium wash fragrance lasts long. Highly recommend."
+    }
+  },
+
+  "cart": {
+    "back": "Back",
+    "title": "Cart",
+    "empty": "Your cart is empty. Add items from our services to get started!",
+    "remove": "Remove",
+    "addFavourite": "Add Favourite",
+    "favorited": "Favorited",
+    "total": "Total",
+    "clear": "Clear Cart",
+    "checkout": "Checkout",
+    "favourites": "Favourites",
+    "alreadyInCart": "Already in Cart",
+    "addToCart": "Add to Cart"
+  },
+
+  "checkout": {
+    "title": "Checkout",
+    "orderSummary": "Order Summary",
+    "total": "Total",
+    "emptyCart": "Your cart is empty.",
+    "payNow": "Pay Now",
+    "processing": "Processing Payment...",
+    "successTitle": "Payment Successful!",
+    "successMsg": "Thank you! Your order is confirmed.",
+    "failedTitle": "Payment Failed",
+    "failedMsg": "Something went wrong. Try again.",
+    "close": "Close"
+  },
+
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "book": "Book Now",
+    "tagline": "Your Clothes, Our Care"
+  },
+
+  "services_common": {
+    "back": "Back",
+    "cart": "Cart",
+    "add_to_cart": "Add to Cart",
+    "choose_items": "Choose items for",
+    "service_notfound": "Service not found"
+  },
+
+  "services": {
+    "steam": {
+      "emoji": "🧥",
+      "name": "Steam Iron",
+      "tagline": "Crisp clothes, wrinkle free shine!",
+      "steps": ["Pickup", "Steam Iron", "Quality Check", "Delivery"],
+      "options": [
+        { "id": "s1", "emoji": "👕", "label": "Shirt", "price": 20 },
+        { "id": "s2", "emoji": "👖", "label": "Pants", "price": 25 }
+      ],
+      "perks": ["Wrinkle-free finish", "Clothes last longer", "Eco-friendly process"]
+    },
+    "dry": {
+      "emoji": "🧴",
+      "name": "Dry Cleaning",
+      "tagline": "Premium care for your delicate clothes.",
+      "steps": ["Pickup", "Dry Clean", "Steam Press", "Delivery"],
+      "options": [
+        { "id": "d1", "emoji": "👗", "label": "Dress", "price": 150 },
+        { "id": "d2", "emoji": "🧥", "label": "Coat", "price": 200 }
+      ],
+      "perks": ["Removes tough stains", "Gentle on fabric", "Professional cleaning"]
+    },
+    "title": "Our Premium Services",
+    "subtitle": "From daily wear to delicate couture — we handle everything with love, care & expertise.",
+    "steamPressing": "Steam Pressing",
+    "steamPressingDesc": "Wrinkle-free clothes, perfectly pressed.",
+    "dryCleaning": "Dry Cleaning",
+    "dryCleaningDesc": "From casual wear to couture, we clean it all.",
+    "bedsheetCare": "Bedsheet Care",
+    "bedsheetCareDesc": "Single, Double & King size bedsheets refreshed.",
+    "carpetCare": "Carpet & Linen Care",
+    "carpetCareDesc": "Rugs, Carpets & Duvets cleaned with care.",
+    "curtainCleaning": "Curtain Cleaning",
+    "curtainCleaningDesc": "Drapes, Curtains & Blinds deep cleaned.",
+    "shoeCleaning": "Shoe Cleaning",
+    "shoeCleaningDesc": "Sneakers, Heels, Boots & Slippers renewed.",
+    "handbagSpa": "Handbag Spa",
+    "handbagSpaDesc": "Handbags, Clutches, Purses & Totes revived.",
+    "indianCouture": "Indian & Couture",
+    "indianCoutureDesc": "Lehenga, Sherwani, Gowns with expert care.",
+    "leatherCare": "Leather & Suede Care",
+    "leatherCareDesc": "Coats, Jackets & Accessories pampered.",
+    "chooseItems": "Choose items in {{serviceName}}",
+    "addToCart": "Add to Cart",
+    "inCart": "In Cart",
+    "before": "Before",
+    "after": "After"
+  }
+}
